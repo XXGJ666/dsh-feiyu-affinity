@@ -1,0 +1,45 @@
+{
+  "name": "dsh-feiyu-affinity",
+  "version": "0.1.0",
+  "description": "给人设一份会记住、会变淡、会生闷气也能哄回来的好感度：按人记分、每天衰减、理由可回看；分数只影响语气，不影响安全规则。",
+  "license": "MIT",
+  "author": "大肥鱼（主人自用）",
+  "type": "module",
+  "main": "lib/index.js",
+  "exports": {
+    ".": "./lib/index.js",
+    "./client": "./client.js",
+    "./cordis.patch.yml": "./cordis.patch.yml",
+    "./package.json": "./package.json"
+  },
+  "keywords": [
+    "deepseek-harness",
+    "dsh-plugin",
+    "affinity",
+    "companion",
+    "persona"
+  ],
+  "files": [
+    "lib",
+    "client.js",
+    "cordis.patch.yml",
+    "README.md",
+    "LICENSE"
+  ],
+  "peerDependencies": {
+    "@deepseek-ai/dsh": "*"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "platform": "web",
+      "inject": [
+        "@deepseek-ai/dsh-client-runtime",
+        "@deepseek-ai/dsh-client-ui-settings",
+        "@deepseek-ai/dsh-client-ui-settings-plugins"
+      ]
+    }
+  }
+}

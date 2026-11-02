@@ -1,0 +1,11 @@
+# 安装：把本包放进 profile 的 node_modules 后，在 profile 的 cordis.patch.yml 里挂载；
+# 或用插件管理器安装（会自动应用本补丁）。
+- insert:
+    - id: dsh-feiyu-affinity
+      name: dsh-feiyu-affinity
+      disabled: false
+      config:
+        defaultScore: 50
+        ownerMin: 25
+        decayHour: 4
+        sulkHours: [1, 2]
