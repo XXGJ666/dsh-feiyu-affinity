@@ -1,6 +1,6 @@
 {
   "name": "dsh-feiyu-affinity",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "给人设一份会记住、会变淡、会生闷气也能哄回来的好感度：按人记分、每天衰减、理由可回看；分数只影响语气，不影响安全规则。",
   "license": "MIT",
   "author": "ShirasuAzusa_XXGJ",
@@ -47,7 +47,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ShirasuAzusa_XXGJ/dsh-feiyu-affinity.git"
+    "url": "https://github.com/XXGJ666/dsh-feiyu-affinity.git"
   },
-  "homepage": "https://github.com/ShirasuAzusa_XXGJ/dsh-feiyu-affinity#readme"
+  "homepage": "https://github.com/XXGJ666/dsh-feiyu-affinity#readme",
+  "bugs": {
+    "url": "https://github.com/XXGJ666/dsh-feiyu-affinity/issues"
+  }
 }
