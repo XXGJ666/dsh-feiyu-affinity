@@ -1,0 +1,7 @@
+- insert:
+    - id: dsh-feiyu-affinity
+      name: dsh-feiyu-affinity
+      disabled: false
+      config:
+        owners: []
+        dataDir: ''

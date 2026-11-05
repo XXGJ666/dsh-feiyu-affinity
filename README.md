@@ -45,3 +45,7 @@
 ## License
 
 MIT
+
+---
+
+© 2026 [ShirasuAzusa_XXGJ](https://github.com/ShirasuAzusa_XXGJ) · [dsh-feiyu-affinity](https://github.com/ShirasuAzusa_XXGJ/dsh-feiyu-affinity) · MIT License

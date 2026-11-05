@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "给人设一份会记住、会变淡、会生闷气也能哄回来的好感度：按人记分、每天衰减、理由可回看；分数只影响语气，不影响安全规则。",
   "license": "MIT",
-  "author": "大肥鱼（主人自用）",
+  "author": "ShirasuAzusa_XXGJ",
   "type": "module",
   "main": "lib/index.js",
   "exports": {
@@ -24,7 +24,10 @@
     "client.js",
     "cordis.patch.yml",
     "README.md",
-    "LICENSE"
+    "LICENSE",
+    "安装.bat",
+    "patch-snippet.yml",
+    "可选-通道抓取补丁"
   ],
   "peerDependencies": {
     "@deepseek-ai/dsh": "*"
@@ -41,5 +44,10 @@
         "@deepseek-ai/dsh-client-ui-settings-plugins"
       ]
     }
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShirasuAzusa_XXGJ/dsh-feiyu-affinity.git"
+  },
+  "homepage": "https://github.com/ShirasuAzusa_XXGJ/dsh-feiyu-affinity#readme"
 }
