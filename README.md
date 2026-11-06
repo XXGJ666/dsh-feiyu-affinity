@@ -1,4 +1,4 @@
-# dsh-feiyu-affinity
+﻿# dsh-feiyu-affinity
 
 给 DSH 人设一份**会记住、会变淡、会生闷气、也能被哄回来**的好感度。
 
@@ -48,4 +48,4 @@ MIT
 
 ---
 
-© 2026 [ShirasuAzusa_XXGJ](https://github.com/ShirasuAzusa_XXGJ) · [dsh-feiyu-affinity](https://github.com/ShirasuAzusa_XXGJ/dsh-feiyu-affinity) · MIT License
+© 2026 [ShirasuAzusa_XXGJ](https://github.com/XXGJ666) · [dsh-feiyu-affinity](https://github.com/XXGJ666/dsh-feiyu-affinity) · MIT License

@@ -1,6 +1,6 @@
-/**
+﻿/**
  * dsh-feiyu-affinity · 侧边栏图标 + 原生透明面板
- * © 2026 ShirasuAzusa_XXGJ · https://github.com/ShirasuAzusa_XXGJ/dsh-feiyu-affinity
+ * © 2026 ShirasuAzusa_XXGJ · https://github.com/XXGJ666/dsh-feiyu-affinity
  */
 window.__ModuleLoader__.load({
   id: 'dsh-feiyu-affinity',
@@ -127,7 +127,7 @@ window.__ModuleLoader__.load({
           h('div', { className: 'fa-note' }, '正常 55；45 以下开始闹；30 以下真的很生气（对主人也说狠话）；20 以下非常冷淡；10 以下彻底不理，要一直哄才回温。'),
           h('div', { className: 'fa-note' }, '情绪是连续的：不会跨过某个分数就突然换个人，是顺着涨跌慢慢表现出来的。'),
           h('div', { className: 'fa-note' }, '单次最多 ±5；加分每天上限看上面设置；扣分不受限。')),
-        h('div', { className: 'fa-note', style: { marginTop: '10px' } }, '© 2026 ', h('a', { href: 'https://github.com/ShirasuAzusa_XXGJ', target: '_blank', rel: 'noreferrer' }, 'ShirasuAzusa_XXGJ'), ' · ', h('a', { href: 'https://github.com/ShirasuAzusa_XXGJ/dsh-feiyu-affinity', target: '_blank', rel: 'noreferrer' }, 'dsh-feiyu-affinity'), ' · MIT'))
+        h('div', { className: 'fa-note', style: { marginTop: '10px' } }, '© 2026 ', h('a', { href: 'https://github.com/XXGJ666', target: '_blank', rel: 'noreferrer' }, 'ShirasuAzusa_XXGJ'), ' · ', h('a', { href: 'https://github.com/XXGJ666/dsh-feiyu-affinity', target: '_blank', rel: 'noreferrer' }, 'dsh-feiyu-affinity'), ' · MIT'))
     }
     return {
       inject: ['slots'],
